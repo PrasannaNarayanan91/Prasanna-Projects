@@ -1,0 +1,23 @@
+[
+  {
+    imageUrl:'',
+    productId:1,
+    price: 220.00,
+    productName:'item1',
+    productDesc:'some info'
+  },
+  {
+    imageUrl:'',
+    productId:2,
+    price: 220.00,
+    productName:'item1',
+    productDesc:'some info'
+  },
+  {
+    imageUrl:'',
+    productId:3,
+    price: 220.00,
+    productName:'item1',
+    productDesc:'some info'
+  }
+]
